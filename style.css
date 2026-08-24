@@ -14,10 +14,15 @@
     font-weight: 400;
 }
 
-body{
+body {
+    margin: 0;
     color: var(--branco);
-    background-color: var(--cor-de-fundo);
+    background-image: url("https://images.unsplash.com/photo-1629103554723-aab6a9fbbd15?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: var(--roboto);
+    min-height: 100vh;
 }
 
 .titulo-principal{
@@ -42,7 +47,8 @@ body{
 }
 
 #campo-senha{
-    background-color: var(--fundo-senha);
+    background-color: var(--fundo-senha);</> java.script const campo Senha" document.querySelector("#campo senha); //localiza o numero que mostra tamanho do campo senha const numero senha document.queryselectyor("numero.senha"); //letras que podem ser utilizadas const letras.maiusculas: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; //tamanho da senha let tamanho.senha=8; function gera.senha(){ }
+
     border: none;
     color: var(--branco);
     font-family: var(--roboto-mono);
@@ -121,7 +127,7 @@ label{
         flex-direction: row;
     }
 }
-.forca{
+.forca{https://pt.pngtree.com/free-backgrounds-photos/%C3%A1gua-viva-roxa
     height: 30px;
     position: relative;
     bottom: 30px;
@@ -135,7 +141,7 @@ label{
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: rgb(80, 112, 255);
     width: 100%;
 }
 

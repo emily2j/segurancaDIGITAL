@@ -1,3 +1,13 @@
+/*
+INTEGRANTES:
+manuella schueda ferst 26
+emily kuginharski gomes 12
+TURMA: 3ª Série J
+*/
+
+
+
+
 const campoSenha = document.querySelector("#campo-senha");
 const mensagem = document.querySelector("#mensagem");
 const numeroSenha = document.querySelector("#numero-senha");
